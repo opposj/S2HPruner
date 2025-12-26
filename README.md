@@ -1,2 +1,2 @@
 # S2HPruner
-Code for the NeurIPS 2024 paper: "S2HPruner: Soft-to-Hard Distillation Bridges the Discretization Gap in Pruning".
+Code for the NeurIPS 2024 paper: "S2HPruner: Soft-to-Hard Distillation Bridges the Discretization Gap in Pruning". Currently, only a demo file is provided, which demonstrates the essential part of S2HPruner. We are planning to integrate S2HPruner into [ST-Family](https://github.com/Sunshine-Ye/Stimulative-Training-Family). Further changes, such as training/test scripts and model/dataset bundles, will be included in the upcoming updates to that repo.
